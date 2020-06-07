@@ -76,7 +76,6 @@ img{
 }
 
 .LondonEye{
-    border-top: 4px solid tomato;
     flex: 50%;
     width: 100%;
     padding-right: 5px;
@@ -95,7 +94,6 @@ h2:hover{
 
 
 .LondonTower{
-    border-top: 4px solid tomato;
     flex: 50%;
     width: 100%;
     padding-right: 5px;
@@ -109,7 +107,6 @@ h2:hover{
 }
 
 .Bridge{
-    border-top: 4px solid tomato;
     flex: 50%;
     width: 100%;
     padding-right: 5px;
@@ -120,7 +117,6 @@ h2:hover{
 
 
 .Museum{
-    border-top: 4px solid tomato;
     flex: 50%;
     width: 100%;
     padding-right: 5px;
